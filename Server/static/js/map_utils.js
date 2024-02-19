@@ -1,5 +1,5 @@
 let map;
-const api_url = "http://127.0.0.1:5000/";
+const api_url = "https://zuhair-007.github.io/senior-design-capstone-project/Server/templates/";
 
 function loadMap(target, center, zoom) {
     const raster = new ol.layer.Tile({
